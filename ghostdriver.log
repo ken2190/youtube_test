@@ -1,0 +1,149 @@
+[INFO  - 2021-12-24T22:26:59.305Z] GhostDriver - Main - running on port 65104
+[INFO  - 2021-12-24T22:27:01.545Z] Session [9d557550-6508-11ec-bbf4-49c3f96aa742] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0","webSecurityEnabled":true}
+[INFO  - 2021-12-24T22:27:01.545Z] Session [9d557550-6508-11ec-bbf4-49c3f96aa742] - page.customHeaders:  - {}
+[INFO  - 2021-12-24T22:27:01.545Z] Session [9d557550-6508-11ec-bbf4-49c3f96aa742] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0"}
+[INFO  - 2021-12-24T22:27:01.545Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9d557550-6508-11ec-bbf4-49c3f96aa742
+[ERROR - 2021-12-24T22:27:29.076Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: Map
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.076Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  o (https://cdn.sstatic.net/Js/third-party/stacks/stacks.min.js?v=587378ef592b:1)
+  be (https://cdn.sstatic.net/Js/third-party/stacks/stacks.min.js?v=587378ef592b:1)
+  n (https://cdn.sstatic.net/Js/third-party/stacks/stacks.min.js?v=587378ef592b:1)
+  start (https://cdn.sstatic.net/Js/third-party/stacks/stacks.min.js?v=587378ef592b:1)
+  (anonymous function) (https://cdn.sstatic.net/Js/third-party/stacks/stacks.min.js?v=587378ef592b:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.140Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.140Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:46)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.140Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.140Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:49)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.145Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.145Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:289)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.152Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.152Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:711)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.152Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.153Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:740)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.153Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.153Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:760)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.154Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - msg: ReferenceError: Can't find variable: StackExchange
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:29.154Z] Session [9b24b2a0-6508-11ec-b9b8-15a13197aa8b] - page.onError - stack:
+  global code (https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2Fusers%2Fstory%2Fcurrent:793)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:06.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384826496
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:07.374Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384827321
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:08.115Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384828113
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:08.901Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384828861
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:09.703Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384829648
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:10.505Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384830450
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:11.307Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384831254
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:12.110Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384832055
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:12.913Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384832854
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:13.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384833661
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:14.518Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384834463
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:15.320Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384835265
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:16.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384836069
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:16.858Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384836854
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:17.658Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384837603
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:18.445Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384838406
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:19.233Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384839187
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:20.035Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384839979
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:20.840Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384840787
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:21.640Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384841592
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:22.381Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384842379
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:23.184Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384843129
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:23.984Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384843929
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:24.764Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384844731
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:25.506Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384845503
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:26.307Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384846254
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:27.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384847054
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-12-24T22:27:27.859Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1640384847807
+
+  phantomjs://platform/console++.js:263 in error
